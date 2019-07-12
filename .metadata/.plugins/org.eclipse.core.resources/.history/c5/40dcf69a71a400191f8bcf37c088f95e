@@ -1,0 +1,15 @@
+package com.biz.book.controller;
+
+import org.springframework.stereotype.Controller;
+
+public class BookController {
+
+	@Controller
+	public class BookController {
+		
+		@RequestMapping(value = "" method = Re )
+		public String book(Model model) 
+			return "book-list";
+		}
+	}
+}

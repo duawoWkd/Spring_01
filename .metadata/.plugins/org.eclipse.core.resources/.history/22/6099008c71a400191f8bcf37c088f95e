@@ -1,0 +1,17 @@
+package com.biz.book.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+public class BookController {
+
+	@Controller
+	public class BookController {
+		
+		@RequestMapping(value = "" method = Re )
+		public String book(Model model) 
+			return "book-list";
+		}
+	}
+}

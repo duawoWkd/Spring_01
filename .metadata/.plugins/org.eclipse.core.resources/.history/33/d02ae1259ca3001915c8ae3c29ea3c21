@@ -1,0 +1,10 @@
+package com.biz.book.model;
+
+public class BookVO {
+    private long b_seq;      // NUMBER PRIMARY KEY,
+    private String b_title;    // nVARCHAR2(100),
+    private String b_comp;    	// nVARCHAR2(50),
+    private String b_auth;    	// nVARCHAR2(50),
+    private int b_price;   // NUMBER
+
+}

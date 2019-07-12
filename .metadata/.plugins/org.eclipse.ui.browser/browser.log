@@ -1,0 +1,45 @@
+
+7월 10, 2019 13:03:33.81 NEW SESSION
+7월 10, 2019 13:03:33.81 [3648:3104:0710/130333.813:ERROR:browser_process_sub_thread.cc(221)] Waited 59 ms for network service
+7월 10, 2019 13:04:09.74 [5952:4616:0710/130409.743:ERROR:browser_process_sub_thread.cc(221)] Waited 9 ms for network service
+7월 10, 2019 13:05:41.85 [3844:4940:0710/130541.858:ERROR:browser_process_sub_thread.cc(221)] Waited 34 ms for network service
+7월 10, 2019 13:16:15.94 [4504:6772:0710/131615.945:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:17:04.61 [4504:6772:0710/131704.619:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:17:14.94 [4504:6772:0710/131714.942:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:17:20.11 [4504:6772:0710/131720.112:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:17:23.30 [4504:6772:0710/131723.304:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:17:30.31 [4504:6772:0710/131730.310:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:17:32.97 [4504:6772:0710/131732.973:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:17:35.23 [4504:6772:0710/131735.234:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:17:49.82 [4504:6772:0710/131749.821:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:17:55.27 [4504:6772:0710/131755.277:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:18:01.84 [4504:6772:0710/131801.841:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:18:04.38 [4504:6772:0710/131804.383:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:18:07.08 [4504:6772:0710/131807.081:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:20:42.80 [4504:6772:0710/132042.800:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:20:46.95 [4504:6772:0710/132046.953:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:20:53.85 [4504:6772:0710/132053.853:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:20:57.09 [4504:6772:0710/132057.093:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:21:39.26 [4504:6772:0710/132139.269:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:23:07.17 [4504:6772:0710/132307.178:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:24:40.07 [4504:6772:0710/132440.078:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:27:36.03 [4504:6772:0710/132736.039:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:34:57.98 [4504:6772:0710/133457.981:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:35:28.14 [4504:6772:0710/133528.148:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:35:31.16 [4504:6772:0710/133531.166:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:48:42.74 [4504:6772:0710/134842.748:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:48:45.55 [4504:6772:0710/134845.552:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:48:47.18 [4504:6772:0710/134847.189:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:48:48.64 [4504:6772:0710/134848.647:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:48:51.19 [4504:6772:0710/134851.194:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:48:53.66 [4504:6772:0710/134853.663:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:49:15.08 [4504:6772:0710/134915.089:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:49:15.53 [4504:6772:0710/134915.539:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:49:20.45 [4504:6772:0710/134920.453:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 13:49:23.97 [4504:6772:0710/134923.971:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED
+7월 10, 2019 16:14:16.43 [4504:3376:0710/161416.434:ERROR:browser_process_sub_thread.cc(221)] Waited 79 ms for network service
+7월 10, 2019 16:15:56.71 [5488:3016:0710/161556.715:ERROR:browser_process_sub_thread.cc(221)] Waited 8 ms for network service
+7월 10, 2019 16:17:42.62 [6084:5320:0710/161742.622:ERROR:browser_process_sub_thread.cc(221)] Waited 20 ms for network service
+7월 10, 2019 16:25:47.51 [6672:5928:0710/162547.513:ERROR:browser_process_sub_thread.cc(221)] Waited 33 ms for network service
+7월 10, 2019 16:30:21.16 [6184:4028:0710/163021.160:ERROR:browser_process_sub_thread.cc(221)] Waited 5 ms for network service
+7월 10, 2019 16:42:23.11 [6680:1128:0710/164223.116:ERROR:browser_process_sub_thread.cc(221)] Waited 28 ms for network service

@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<style>
+	nav{
+		background-color: blue;
+		margin: 0;
+		padding: 0;
+	}
+	
+	ul.main-menu{
+		display: flex;
+	}
+
+</style>
+
+<nav>
+	<ul class="main-menu">
+		<li>도서정보보기</li>
+		<li>로그인</li>
+		<li>회원가입</li>
+	
+	</ul>
+</nav>

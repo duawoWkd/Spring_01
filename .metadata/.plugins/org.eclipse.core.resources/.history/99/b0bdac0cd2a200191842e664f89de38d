@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<style>
+	header{
+		background-color: #41d3BC;
+		margin:0;
+		padding: 1rem;
+		color:white;
+	}
+</style>
+<header>
+	<h1><a href="/book/" class = "logo">Books</a></h1>
+</header>
+
+
