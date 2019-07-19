@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+fieldset.join-body {
+    width: 400px;
+    padding: 40px;
+
+    margin: 20% auto;
+
+    background-color: #191919;
+    text-align: center;
+    z-index: 10;
+    border-radius: 20px;
+    box-shadow: 12px 12px 12px 1px rgba(0,0,255,0.2);
+}
+fieldset.join-body .legend{
+    color: white;
+    background: #191919;
+}
+
+fieldset.join-body .input{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 16px;
+    width: 200px;
+
+    outline: none;
+    color: white;
+    border-radius: 25px;
+
+    transition: 0.2s;
+}
+
+fieldset.joinbody.input.
