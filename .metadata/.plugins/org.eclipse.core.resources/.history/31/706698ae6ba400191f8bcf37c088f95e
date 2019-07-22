@@ -1,5 +1,0 @@
-package com.biz.book.dao;
-
-public interface BookDao {
-
-}
